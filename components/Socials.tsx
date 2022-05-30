@@ -1,5 +1,5 @@
 import { FC } from 'react'
-// @ts-ignore
+
 import Head from 'next/head'
 import styles from '/styles/Socials.module.scss'
 

@@ -2,16 +2,12 @@ import { FC } from 'react'
 
 import styles from '../styles/Navbar.module.scss'
 
-// @ts-ignore
 import Link from 'next/link'
-// @ts-ignore
 import Image from 'next/image'
-// @ts-ignore
 import { useRouter } from 'next/router'
 
 import vercelLogo from '../public/vercel.svg'
 
-// @ts-ignore
 import clsx from 'clsx'
 
 const navigation = [

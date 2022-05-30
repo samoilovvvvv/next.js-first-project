@@ -1,11 +1,8 @@
 import { FC } from 'react'
 
-// @ts-ignore
 import { GetStaticProps } from 'next'
 
-// @ts-ignore
 import Head from 'next/head'
-// @ts-ignore
 import Link from 'next/link'
 import Heading from '../../components/Heading'
 

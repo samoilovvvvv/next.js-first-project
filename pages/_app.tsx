@@ -1,12 +1,10 @@
-// @ts-ignore
 import { AppProps } from 'next/app'
 
 import { FC } from 'react'
 
 import '../styles/globals.scss'
 import Layout from '../components/Layout'
- 
-// @ts-ignore
+
 import Head from 'next/head'
 
 const MyApp: FC<AppProps> = ({ Component, pageProps }) => (

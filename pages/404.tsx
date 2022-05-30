@@ -1,8 +1,6 @@
 import { FC, useEffect } from 'react'
 
-// @ts-ignore
 import { useRouter } from 'next/router'
-// @ts-ignore
 import Head from 'next/head'
 
 import Heading from '../components/Heading'

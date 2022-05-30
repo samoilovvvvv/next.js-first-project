@@ -1,12 +1,10 @@
 import { FC } from 'react'
-// @ts-ignore
+
 import { GetStaticProps, GetStaticPaths } from 'next'
 
-// @ts-ignore
 import Head from 'next/head'
 
-// @ts-ignore
-import PostInfo from '/components/PostInfo'
+import PostInfo from '../../components/PostInfo'
 
 import { postType } from '../../types'
 

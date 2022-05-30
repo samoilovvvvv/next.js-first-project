@@ -1,4 +1,3 @@
-// @ts-ignore
 import { NextApiRequest, NextApiResponse } from 'next'
 import { socials } from './data/socials'
 

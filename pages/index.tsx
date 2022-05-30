@@ -1,12 +1,10 @@
 import { FC } from 'react'
 
-// @ts-ignore
 import { GetStaticProps } from 'next'
 
 import Heading from '../components/Heading'
 import Socials from '../components/Socials'
 
-// @ts-ignore
 import Head from 'next/head'
 
 import styles from '../styles/Home.module.scss'

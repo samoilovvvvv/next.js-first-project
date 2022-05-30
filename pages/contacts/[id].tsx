@@ -1,9 +1,8 @@
 import { FC } from 'react'
 
-// @ts-ignore
 import Head from 'next/head'
 import { contactType } from '../../types'
-// @ts-ignore
+
 import { GetServerSideProps } from 'next'
 
 import ContactInfo from '../../components/ContactInfo'
